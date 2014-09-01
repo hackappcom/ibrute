@@ -1,3 +1,6 @@
+**The end of fun, Apple have just pached**
+
+
 Here is appleID password bruteforce pOc.
 It's only p0c, so there is no
 	
