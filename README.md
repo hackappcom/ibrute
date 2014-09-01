@@ -1,4 +1,4 @@
-**The end of fun, Apple have just pached**
+**The end of fun, Apple have just patched**
 
 
 Here is appleID password bruteforce pOc.
