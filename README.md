@@ -1,7 +1,11 @@
 Here is appleID password bruteforce pOc.
-It's oly p0c, so there is no
-	* MultiThreading feature
-	* Save-State-On-Exception feature
+It's only p0c, so there is no
+	
+
+* MultiThreading feature
+* Save-State-On-Exception feature
+
+
 do it yourself
 
 
