@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
+#
+#hackapp.com
+#@hackappcom  p0c for FindMyIphone bug
+#allows to bruteforce passwords  without AppleID lock.
+#Before you start, make sure it's not illegal in your country.
+#Have a nice brute
 
 import json
 import urllib2
@@ -22,7 +28,7 @@ from time import strftime
 import socks
 import socket
 
-#Uncomment to user t0r
+#Uncomment to user t0r, or any other socks5 proxy
 
 #socks.setdefaultproxy(socks.PROXY_TYPE_SOCKS5, "127.0.0.1", 9050)
 #socket.socket = socks.socksocket
