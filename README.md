@@ -1,3 +1,8 @@
+**UPDATE**
+
+If you are concerned about cloud storage security, please read [What if I was a cloud?](http://blog.hackapp.com/2014/09/what-if-i-was-cloud.html) 
+and leave your feedback please. Thank you.
+
 **The end of fun, Apple have just patched**
 
 
